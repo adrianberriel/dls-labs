@@ -1,0 +1,39 @@
+# Ignore node_modules (for Node.js projects)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Ignore environment files
+.env
+
+# Ignore logs
+logs/
+*.log
+debug.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+dist/
+build/
+*.out
+*.exe
+*.o
+*.obj
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
